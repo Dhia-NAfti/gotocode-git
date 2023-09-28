@@ -1,11 +1,11 @@
+/* style.css */
+
+/* Set the background color to #9ACD32 (Yellow-Green) */
 body {
-    background-color: #7FFF000;
-    margin:0 auto;
-    max-width: 800px;
+    background-color: #9ACD32;
 }
 
-/* Set the text color to green */
-body, h1, p {
-    front-size	: 50px;
+/* Set the text color to #686A6C (Gray) */
+body, h1, h2, p, footer {
     color: #686A6C;
 }
