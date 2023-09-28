@@ -1,0 +1,11 @@
+body {
+    background-color: #7FFF000;
+    margin:0 auto;
+    max-width: 800px;
+}
+
+/* Set the text color to green */
+body, h1, p {
+    front-size	: 50px;
+    color: #686A6C;
+}
